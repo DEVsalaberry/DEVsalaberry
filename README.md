@@ -16,16 +16,12 @@ Tenho 24 anos e atualmente moro no Brasil. Tenho  experiência com HTML, CSS3, S
 
 ###
 # 📊 GitHub Stats:
-<div class="container">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEVsalaberry&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEVsalaberry&theme=dark&hide_border=false" alt="GitHub Streak">
-  <div class="languages-container">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVsalaberry&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
-  </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DEVsalaberry&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DEVsalaberry&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-</body>
-</html>
 
 
 
@@ -74,7 +70,5 @@ Tenho 24 anos e atualmente moro no Brasil. Tenho  experiência com HTML, CSS3, S
 </div>
 
 ###
-
-
 
 
