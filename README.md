@@ -12,17 +12,31 @@ Tenho 24 anos e atualmente moro no Brasil. Tenho  experiência com HTML, CSS3, S
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/felipesalaberrydevv)
 
 
+
+
 ###
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DEVsalaberry&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DEVsalaberry&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVsalaberry&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div class="container">
+  <img src="https://github-readme-stats.vercel.app/api?username=DEVsalaberry&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEVsalaberry&theme=dark&hide_border=false" alt="GitHub Streak">
+  <div class="languages-container">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVsalaberry&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
+  </div>
+</div>
+
+</body>
+</html>
+
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DEVsalaberry&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<div align="center">
+  <img height="350" src="https://steamuserimages-a.akamaihd.net/ugc/1625227428611536525/3431216C90FB534D60CE0470541C44941F9770F8/?imw=365&imh=205&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"  />
+</div>
 
 
 ###
@@ -60,3 +74,7 @@ Tenho 24 anos e atualmente moro no Brasil. Tenho  experiência com HTML, CSS3, S
 </div>
 
 ###
+
+
+
+
