@@ -25,9 +25,7 @@ Tenho 24 anos e atualmente moro no Brasil. Tenho  experiência com HTML, CSS3, S
 </div>
 
 ---
-<div align="center">
-  <a href="https://visitcount.itsvg.in/api?id=DEVsalaberry&icon=0&color=0"><img src="https://visitcount.itsvg.in/api?id=DEVsalaberry&icon=0&color=0" alt="Visitor Count"></a>
-</div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
