@@ -27,9 +27,7 @@ Tenho 24 anos e atualmente moro no Brasil. Tenho experiência com SQL, MySQL, Mo
 
 
 
-<div align="center">
-  <img height="350" src="https://steamuserimages-a.akamaihd.net/ugc/1625227428611536525/3431216C90FB534D60CE0470541C44941F9770F8/?imw=365&imh=205&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"  />
-</div>
+
 
 ###
 
