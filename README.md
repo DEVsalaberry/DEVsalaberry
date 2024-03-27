@@ -3,7 +3,7 @@
 ###
 <details>
   <summary>👨‍💻 More about me</summary>
-Tenho 24 anos e atualmente moro no Brasil. Tenho experiência com SQL, MySQL, MongDB, Java, Spring Boot e PHP, sao as ferramentas que estou me aprofundando diariamente para meu aprendizado em desenvolvimento Back-End. Estudo cursos por fora da Faculdade para procurar desenvolver mais minhas habilidades como criatividade e comunicação.
+Tenho 24 anos e atualmente moro no Brasil. Tenho experiência com HTML, CSS, SQL, MySQL, MongDB, Java, Spring Boot e PHP, sao as ferramentas que estou me aprofundando diariamente para meu aprendizado em desenvolvimento Back-End. Estudo cursos por fora da Faculdade para procurar desenvolver mais minhas habilidades como criatividade e comunicação.
   
 <br>⚡Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a <br>resolução de problemas. </br>
 </details>
