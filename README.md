@@ -3,7 +3,7 @@
 ###
 <details>
   <summary>👨‍💻 More about me</summary>
-Tenho 24 anos e atualmente moro no Brasil. Tenho experiência com HTML, CSS, SQL, MySQL, MongDB, Java, Spring Boot e PHP, sao as ferramentas que estou me aprofundando diariamente para meu aprendizado em desenvolvimento Back-End. Estudo cursos por fora da Faculdade para procurar desenvolver mais minhas habilidades como criatividade e comunicação.
+Tenho 24 anos e atualmente moro no Brasil. Tenho experiência com SQL, MySQL, MongDB, Java, Spring Boot e API REST, sao as ferramentas que estou me aprofundando diariamente para meu aprendizado em desenvolvimento Back-End. Estudo cursos por fora da Faculdade para procurar desenvolver mais minhas habilidades como criatividade e comunicação.
   
 <br>⚡Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a <br>resolução de problemas. </br>
 </details>
@@ -44,15 +44,8 @@ Tenho 24 anos e atualmente moro no Brasil. Tenho experiência com HTML, CSS, SQL
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="43" alt="mongodb logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="43" alt="html5 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="43" alt="css3 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="43" alt="php logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="43" alt="javascript logo"  />
-</div>
-
+  
+ 
 
 
 <div align="center">
