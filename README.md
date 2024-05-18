@@ -1,4 +1,4 @@
-<p align="left">Olá 👋, meu nome é Felipe, apaixonado pelo desenvolvimento Back-End.<br><br>🌱 Atualmente estou estudando Desenvolvimento Back-End na Faculdade Senac.<br>  <br>🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com Back-End.</p>
+<p align="left">Olá 👋, meu nome é Felipe, apaixonado pelo desenvolvimento Back-End.<br><br>🌱 Atualmente estou estudando Desenvolvimento Back-End na Faculdade Anhanguera.<br>  <br>🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com Back-End.</p>
 
 ###
 <details>
