@@ -50,12 +50,8 @@ Tenho 24 anos e atualmente moro no Brasil. Tenho experiência com SQL, MySQL, Mo
 
 <div align="center">
   <h1 >🔥 Profiles </h1>
-  <a href="www.linkedin.com/in/felipesalaberrydevv" target="_blank">
+  <a href="https://www.linkedin.com/in/felipesalaberrydevv" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="zen.exe_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
   <a href="https://www.instagram.com/xfelipevx/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
